@@ -1,0 +1,23 @@
+{
+  "name": "aframe-example-face-tracking-face-mesh",
+  "version": "1.0.0",
+  "description": "This repository contains an AR example using the Zappar SDK for A-Frame.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zappar-xr/aframe-example-face-tracking-face-mesh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zappar-xr/aframe-example-face-tracking-face-mesh/issues"
+  },
+  "homepage": "https://github.com/zappar-xr/aframe-example-face-tracking-face-mesh#readme",
+  "dependencies": {
+    "@zappar/zapworks-cli": "^2.0.4"
+  }
+}
